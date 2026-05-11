@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website with dark mode, glassmorphism UI, and smooth animations.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/0a0a0f/6366f1?text=Portfolio+Preview)
+![Portfolio Preview](./image.png)
 
 ## ✨ Features
 
